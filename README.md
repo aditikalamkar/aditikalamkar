@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditi
+**# 👋 Hi, I'm Aditi
 
 A developer at heart, now diving deep into the world of AWS and DevOps.  
 🌩️ I love automating cloud workflows with Jenkins and other modern DevOps tools.
@@ -13,3 +13,4 @@ A developer at heart, now diving deep into the world of AWS and DevOps.
 <br>
 
 > 🚧 *This profile is focused on AWS Cloud and DevOps engineering – always learning, always building!*
+**
