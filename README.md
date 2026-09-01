@@ -1,22 +1,34 @@
-<h1 align="center">👋 Hi, I'm Aditi Kalamkar</h1>
+# Hi, I'm Aditi Kalamkar
 
-<h3 align="center">
-A developer at heart, now diving deep into the world of AWS and DevOps.                
-🌩️ I love automating cloud workflows with Jenkins, and other modern DevOps tools.</h3>
+### Java Backend / Full-Stack Engineer, building and deploying real applications on AWS
 
+Spring Boot - REST APIs - Angular - MySQL - AWS (EC2, RDS, S3, DMS) - Docker - Jenkins - GitHub Actions
 
-## 🚀 Domains & Projects
+---
 
-| Domain       | Skills & Tools                     | Projects                                                  |
-|--------------|------------------------------------|------------------------------------------------------------------|
-| **Cloud**    | AWS (EC2, S3, IAM, VPC, RDS, DMS) | 🔹 [Host Static Website on S3](https://github.com/aditikalamkar/E-Commerce-GithubActions.git) <br> 🔹 [Secure VPC Setup](#) <br> 🔹 [AWS MySQL Migration Project](https://github.com/aditikalamkar/aws-mysql-migration-project) |
-| **CI/CD**    | Jenkins, GitHub Actions            |🔹 [CI/CD Pipeline with Jenkins](#) <br> 🔹[Static  Website using GitHub Pages](https://github.com/aditikalamkar/BEDevOpsMiniProject.git) <br>🔹 [GitHub Actions to AWS](#) |
-| **Docker** | Docker CLI, Dockerfile, Volumes, Compose, Hub      | 🔹 [FCT Docker Tasks ](https://github.com/aditikalamkar/Docker/tree/main/Docker%20Learning) <br>🔹 [Deploying Multi-Tier Application with Docker Compose ](https://github.com/aditikalamkar/Docker/tree/main/Docker%20Projects/Deploying%20Multi-Tier%20Application-SL) <br>  |
-| **Kubernetes** | kubeadm, kubectl, kubelet | 🔹 [K8s Kubeadm Setup](https://github.com/aditikalamkar/Kubernetes/tree/main/K8S%20Learning/K8S%20Kubeadm%20Setup) <br>🔹 [K8s Minikube Setup](https://github.com/aditikalamkar/Kubernetes/tree/main/K8S%20Learning/K8S%20Minikube%20Setup)  <br> |
-| **BE Final Year Project** | Full Stack Temple Management System with CI/CD (Angular + Spring Boot + AWS) | 🔹 [BE Project](https://github.com/aditikalamkar/FinalYearProject.git) <br> |
-| **Full Stack Java Projects** | FA Full Stack CRUD web application to manage tutorials using Angular, Spring Boot, and MySQL. | 🔹 [Tutorial Management](https://github.com/aditikalamkar/Tutorial-Management-Project.git) <br> |
+I build full-stack Java applications - REST APIs with Spring Boot, Angular front ends, MySQL behind them - and deploy them myself on AWS rather than stopping at localhost. Currently looking for Java Backend / Full-Stack Engineer roles at product companies in India.
 
+## Featured Projects
 
+**[agadgaon-devotee-management-system](https://github.com/aditikalamkar/FinalYearProject)** - Full-stack booking and admin platform (Angular + Spring Boot + MySQL), deployed on AWS EC2 with a Jenkins CI/CD pipeline and a live domain. My most complete end-to-end project: API design, layered architecture, and a real deployment pipeline.
 
+**[aws-mysql-migration-project](https://github.com/aditikalamkar/aws-mysql-migration-project)** - Migrated a MySQL database from EC2 to RDS using AWS DMS, with S3-based assessment reporting and a documented troubleshooting guide.
 
-> 🧰 Learning by doing — crafting real-world AWS and DevOps projects from scratch.
+**[microservice-deployment-swarm](https://github.com/aditikalamkar/microservice-deployment-swarm)** - Multi-service application deployed with Docker Swarm and Kubernetes manifests, covering service orchestration and container networking.
+
+**[E-Commerce-GithubActions](https://github.com/aditikalamkar/E-Commerce-GithubActions)** - Automated CI/CD pipeline deploying a static site to AWS S3 via GitHub Actions, with credentials handled through GitHub Secrets.
+
+## Tech Stack
+
+**Backend:** Java, Spring Boot, REST APIs, Spring Data JPA / Hibernate
+**Frontend:** Angular, TypeScript, HTML/CSS
+**Database:** MySQL
+**Cloud and DevOps:** AWS (EC2, RDS, S3, DMS, IAM), Docker, Jenkins, GitHub Actions, Kubernetes (learning)
+
+## What I'm working on
+
+Strengthening the engineering practices around my projects - test coverage, input validation, and proper auth - and building toward backend systems that handle caching and asynchronous processing, not just CRUD.
+
+## Get in touch
+
+[LinkedIn](https://linkedin.com/in/aditi-kalamkar-638b2a261) - open to full-time Java Backend / Full-Stack opportunities.
