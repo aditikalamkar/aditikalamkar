@@ -10,7 +10,9 @@ I build full-stack Java applications - REST APIs with Spring Boot, Angular front
 
 ## Featured Projects
 
-**[agadgaon-devotee-management-system](https://github.com/aditikalamkar/FinalYearProject)** - Full-stack booking and admin platform (Angular + Spring Boot + MySQL), deployed on AWS EC2 with a Jenkins CI/CD pipeline and a live domain. My most complete end-to-end project: API design, layered architecture, and a real deployment pipeline.
+**SKS Trader** - B2B e-commerce platform for SKS Industrial Group, serving retailers, wholesalers, and contractors ordering construction materials, steel, and industrial supplies. Live in production. I own the backend (six Java Spring Boot microservices), the deployment pipeline, and the Angular admin/seller portal. [Website](https://sksindustrialgroup.com) / [Android app on Google Play](https://play.google.com/store/apps/details?id=com.sksrtrader_app)
+
+**[agadgaon-devotee-management-system](https://github.com/aditikalamkar/FinalYearProject)** - Full-stack booking and admin platform (Angular + Spring Boot + MySQL), deployed on AWS EC2 with a Jenkins CI/CD pipeline and a live domain. My most complete end-to-end open-source project: API design, layered architecture, and a real deployment pipeline.
 
 **[aws-mysql-migration-project](https://github.com/aditikalamkar/aws-mysql-migration-project)** - Migrated a MySQL database from EC2 to RDS using AWS DMS, with S3-based assessment reporting and a documented troubleshooting guide.
 
