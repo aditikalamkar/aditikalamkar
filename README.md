@@ -16,6 +16,8 @@ I build full-stack Java applications - REST APIs with Spring Boot, Angular front
 
 **[aws-mysql-migration-project](https://github.com/aditikalamkar/aws-mysql-migration-project)** - Migrated a MySQL database from EC2 to RDS using AWS DMS, with S3-based assessment reporting and a documented troubleshooting guide.
 
+**[aws-ec2-ssh-key-recovery](https://github.com/aditikalamkar/aws-ec2-ssh-key-recovery)** - Restored SSH access to a production EC2 instance after losing the private key, using EC2 Instance Connect / SSM. Documents how SSH key auth works, recovery options, and a Windows + Linux SSH cheat sheet.
+
 **[microservice-deployment-swarm](https://github.com/aditikalamkar/microservice-deployment-swarm)** - Multi-service application deployed with Docker Swarm and Kubernetes manifests, covering service orchestration and container networking.
 
 **[E-Commerce-GithubActions](https://github.com/aditikalamkar/E-Commerce-GithubActions)** - Automated CI/CD pipeline deploying a static site to AWS S3 via GitHub Actions, with credentials handled through GitHub Secrets.
